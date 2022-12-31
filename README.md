@@ -7,4 +7,10 @@ this is just an example project to try and demonstrate open source workflows
 clone repo
 npm install
 create a new branch
+git checkout -b chris-feature-01
+make changes
+commit changes
+push to origin!!!
+git push origin chris-feature-01
 
+you may get a warning here to sign into git if this is your first time. choose sign in with browser and cofirm the message.
