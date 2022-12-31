@@ -19,3 +19,7 @@ go to your github account and select pull request
 leave a comment about what you did
 
 then click create pull request
+
+## rules for repo
+
+![alt](images/rules.png)
